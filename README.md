@@ -174,7 +174,10 @@ supply-chain-risk-assessment/
 **Charles Walton**
 Customer & Revenue Analyst Specialist • AI Productivity
 
-LinkedIn: https://linkedin.com/in/your-linkedin
-Email: [your-email@example.com](mailto:your-email@example.com)
+ 🌐 Portfolio: https://cwalton133.github.io/data-portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/cwalton1335
+- 💻 GitHub: https://github.com/cwalton133
+- 📧 Email: cwalton1335@gmail.com
 
+---
 ---
